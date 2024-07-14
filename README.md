@@ -1,4 +1,4 @@
-# Spring Boot H2 Database Example
+# Spring Boot H2 Database
 
 This project demonstrates a simple Spring Boot application using an H2 in-memory database. It includes CRUD operations via RESTful APIs for managing student records.
 
